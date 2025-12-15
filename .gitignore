@@ -1,0 +1,19 @@
+# --- FOUNDRY / SOLIDITY ---
+cache/
+out/
+broadcast/
+forge-std/
+
+# --- NODE / FRONTEND ---
+node_modules/
+dist/
+build/
+.npm
+
+# --- SYSTEME & IDE ---
+.DS_Store
+.vscode/
+.idea/
+
+# --- SECURITE ---
+.env
